@@ -1,7 +1,7 @@
 
 # The python version of guessing game
-# 
-#
+# Completed by Ehan Masud on 1/7/2023
+# Goal: Find the number in 5 or less guesses
 
 import random
 
@@ -11,7 +11,7 @@ guesses = 0
 notplaying = False
 
 print("Welcome to Guessing Game (Python edition)")
-print("Your goal is to guess a number between 1-100.")
+print("Your goal is to guess a number between 1-100 in only 5 guesses.")
 print("Good luck!")
 print("---------------------------------------------")
 
